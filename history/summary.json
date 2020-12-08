@@ -2,6 +2,7 @@
   {
     "name": "VoIP",
     "url": "$VOIP_WEB",
+    "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vo-ip",
     "status": "up",
     "uptime": "100.00%",
@@ -9,10 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 730,
-    "timeDay": 691,
-    "timeWeek": 730,
-    "timeMonth": 730,
-    "timeYear": 730
+    "time": 722,
+    "timeDay": 682,
+    "timeWeek": 722,
+    "timeMonth": 722,
+    "timeYear": 722,
+    "dailyMinutesDown": {}
   }
 ]
