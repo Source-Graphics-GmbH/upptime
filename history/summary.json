@@ -58,19 +58,19 @@
     "url": "https://gitlab.source-graphics.ch",
     "icon": "https://favicons.githubusercontent.com/gitlab.source-graphics.ch",
     "slug": "gitlab",
-    "status": "down",
-    "uptime": "6.63%",
-    "uptimeDay": "6.63%",
-    "uptimeWeek": "6.63%",
-    "uptimeMonth": "6.63%",
-    "uptimeYear": "6.63%",
-    "time": 785,
-    "timeDay": 785,
-    "timeWeek": 785,
-    "timeMonth": 785,
-    "timeYear": 785,
+    "status": "up",
+    "uptime": "1.14%",
+    "uptimeDay": "1.14%",
+    "uptimeWeek": "1.14%",
+    "uptimeMonth": "1.14%",
+    "uptimeYear": "1.14%",
+    "time": 1256,
+    "timeDay": 1256,
+    "timeWeek": 1256,
+    "timeMonth": 1256,
+    "timeYear": 1256,
     "dailyMinutesDown": {
-      "2020-12-10": 0
+      "2020-12-10": 21
     }
   },
   {
@@ -96,19 +96,19 @@
     "url": "$MARCEL_WEB",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "marcel-web",
-    "status": "down",
-    "uptime": "1.43%",
-    "uptimeDay": "1.43%",
-    "uptimeWeek": "1.43%",
-    "uptimeMonth": "1.43%",
-    "uptimeYear": "1.43%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "0.74%",
+    "uptimeDay": "0.74%",
+    "uptimeWeek": "0.74%",
+    "uptimeMonth": "0.74%",
+    "uptimeYear": "0.74%",
+    "time": 1772,
+    "timeDay": 1772,
+    "timeWeek": 1772,
+    "timeMonth": 1772,
+    "timeYear": 1772,
     "dailyMinutesDown": {
-      "2020-12-10": 0
+      "2020-12-10": 21
     }
   }
 ]
