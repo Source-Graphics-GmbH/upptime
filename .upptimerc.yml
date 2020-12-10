@@ -6,6 +6,16 @@ repo: upptime # Your Github repository name
 sites:
   - name: VoIP
     url: $VOIP_WEB
+  - name: Sharing
+    url: https://sharing.source-graphics.ch
+  - name: Webmail for SG Services
+    url: https://webmail.services.source-graphics.ch/
+  - name: Gitlab
+    url: https://gitlab.source-graphics.ch
+  - name: FAQ
+    url: https://faq.source-graphics.ch  
+  - name: Marcel Web
+    url: $MARCEL_WEB
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
