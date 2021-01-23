@@ -22,10 +22,10 @@
     "url": "https://sharing.source-graphics.ch",
     "icon": "https://favicons.githubusercontent.com/sharing.source-graphics.ch",
     "slug": "sharing",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.85%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.97%",
     "time": 1317,
@@ -34,6 +34,7 @@
     "timeMonth": 1289,
     "timeYear": 1317,
     "dailyMinutesDown": {
+      "2021-01-23": 2,
       "2020-12-26": 17
     }
   },
@@ -42,10 +43,10 @@
     "url": "https://webmail.services.source-graphics.ch/",
     "icon": "https://favicons.githubusercontent.com/webmail.services.source-graphics.ch",
     "slug": "webmail-for-sg-services",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.88%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 668,
@@ -53,25 +54,28 @@
     "timeWeek": 654,
     "timeMonth": 653,
     "timeYear": 668,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-23": 2
+    }
   },
   {
     "name": "Gitlab",
     "url": "https://gitlab.source-graphics.ch",
     "icon": "https://favicons.githubusercontent.com/gitlab.source-graphics.ch",
     "slug": "gitlab",
-    "status": "up",
-    "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "status": "down",
+    "uptime": "99.96%",
+    "uptimeDay": "99.92%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.97%",
+    "uptimeYear": "99.96%",
     "time": 1208,
     "timeDay": 1296,
     "timeWeek": 1052,
     "timeMonth": 1045,
     "timeYear": 1208,
     "dailyMinutesDown": {
+      "2021-01-23": 1,
       "2020-12-10": 21
     }
   },
@@ -80,10 +84,10 @@
     "url": "https://faq.source-graphics.ch",
     "icon": "https://favicons.githubusercontent.com/faq.source-graphics.ch",
     "slug": "faq",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1271,
@@ -91,16 +95,18 @@
     "timeWeek": 1250,
     "timeMonth": 1241,
     "timeYear": 1271,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-01-23": 1
+    }
   },
   {
     "name": "Marcel Web",
     "url": "$MARCEL_WEB",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "marcel-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -110,6 +116,7 @@
     "timeMonth": 1848,
     "timeYear": 1900,
     "dailyMinutesDown": {
+      "2021-01-23": 0,
       "2020-12-10": 21
     }
   }
