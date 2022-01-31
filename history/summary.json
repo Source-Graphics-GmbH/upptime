@@ -5,15 +5,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "vo-ip",
     "status": "up",
-    "uptime": "71.12%",
+    "uptime": "71.19%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "66.66%",
-    "time": 642,
-    "timeDay": 594,
-    "timeWeek": 614,
-    "timeMonth": 596,
+    "time": 641,
+    "timeDay": 489,
+    "timeWeek": 602,
+    "timeMonth": 592,
     "timeYear": 624,
     "dailyMinutesDown": {
       "2021-12-20": 84,
@@ -158,9 +158,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.79%",
     "time": 1158,
-    "timeDay": 1209,
-    "timeWeek": 1176,
-    "timeMonth": 1103,
+    "timeDay": 1052,
+    "timeWeek": 1188,
+    "timeMonth": 1102,
     "timeYear": 1138,
     "dailyMinutesDown": {
       "2022-01-04": 21,
@@ -177,8 +177,7 @@
       "2021-08-08": 21,
       "2021-03-04": 15,
       "2021-02-26": 65,
-      "2021-02-01": 600,
-      "2021-01-31": 1139
+      "2021-02-01": 600
     }
   },
   {
@@ -193,9 +192,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.26%",
     "time": 596,
-    "timeDay": 522,
-    "timeWeek": 515,
-    "timeMonth": 511,
+    "timeDay": 414,
+    "timeWeek": 517,
+    "timeMonth": 508,
     "timeYear": 587,
     "dailyMinutesDown": {
       "2022-01-04": 21,
@@ -221,10 +220,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.78%",
-    "time": 1054,
-    "timeDay": 894,
-    "timeWeek": 1180,
-    "timeMonth": 960,
+    "time": 1053,
+    "timeDay": 765,
+    "timeWeek": 1098,
+    "timeMonth": 956,
     "timeYear": 1032,
     "dailyMinutesDown": {
       "2022-01-04": 21,
@@ -241,8 +240,7 @@
       "2021-08-08": 31,
       "2021-05-01": 94,
       "2021-02-26": 64,
-      "2021-02-01": 600,
-      "2021-01-31": 1139
+      "2021-02-01": 600
     }
   },
   {
@@ -257,9 +255,9 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.78%",
     "time": 1041,
-    "timeDay": 944,
-    "timeWeek": 977,
-    "timeMonth": 942,
+    "timeDay": 914,
+    "timeWeek": 979,
+    "timeMonth": 940,
     "timeYear": 1008,
     "dailyMinutesDown": {
       "2022-01-04": 21,
@@ -275,8 +273,7 @@
       "2021-08-08": 22,
       "2021-05-02": 138,
       "2021-02-26": 64,
-      "2021-02-01": 600,
-      "2021-01-31": 1139
+      "2021-02-01": 600
     }
   },
   {
@@ -291,10 +288,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.30%",
     "time": 1829,
-    "timeDay": 1766,
-    "timeWeek": 1800,
-    "timeMonth": 1751,
-    "timeYear": 1815,
+    "timeDay": 1700,
+    "timeWeek": 1805,
+    "timeMonth": 1749,
+    "timeYear": 1816,
     "dailyMinutesDown": {
       "2022-01-04": 21,
       "2021-12-20": 82,
