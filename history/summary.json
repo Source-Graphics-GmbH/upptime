@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vo-ip",
     "status": "up",
-    "uptime": "78.69%",
+    "uptime": "78.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.89%",
     "uptimeYear": "86.84%",
     "time": 626,
-    "timeDay": 561,
-    "timeWeek": 582,
-    "timeMonth": 629,
+    "timeDay": 606,
+    "timeWeek": 602,
+    "timeMonth": 630,
     "timeYear": 629,
     "dailyMinutesDown": {
       "2023-01-25": 47,
@@ -84,9 +84,9 @@
     "uptimeMonth": "99.92%",
     "uptimeYear": "99.68%",
     "time": 1205,
-    "timeDay": 1030,
-    "timeWeek": 1166,
-    "timeMonth": 1336,
+    "timeDay": 1136,
+    "timeWeek": 1165,
+    "timeMonth": 1333,
     "timeYear": 1244,
     "dailyMinutesDown": {
       "2023-01-25": 37,
@@ -95,8 +95,7 @@
       "2022-10-31": 29,
       "2022-08-29": 44,
       "2022-07-12": 454,
-      "2022-04-14": 437,
-      "2022-02-10": 311
+      "2022-04-14": 437
     }
   },
   {
@@ -111,9 +110,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.66%",
     "time": 566,
-    "timeDay": 492,
+    "timeDay": 494,
     "timeWeek": 493,
-    "timeMonth": 533,
+    "timeMonth": 535,
     "timeYear": 590,
     "dailyMinutesDown": {
       "2023-01-25": 45,
@@ -122,8 +121,7 @@
       "2022-10-31": 28,
       "2022-08-29": 34,
       "2022-07-12": 533,
-      "2022-04-14": 437,
-      "2022-02-10": 311
+      "2022-04-14": 437
     }
   },
   {
@@ -138,9 +136,9 @@
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.32%",
     "time": 987,
-    "timeDay": 775,
-    "timeWeek": 913,
-    "timeMonth": 967,
+    "timeDay": 970,
+    "timeWeek": 906,
+    "timeMonth": 971,
     "timeYear": 989,
     "dailyMinutesDown": {
       "2023-01-25": 45,
@@ -150,8 +148,7 @@
       "2022-07-12": 510,
       "2022-05-03": 1024,
       "2022-05-02": 853,
-      "2022-04-14": 437,
-      "2022-02-10": 311
+      "2022-04-14": 437
     }
   },
   {
@@ -160,15 +157,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/faq.source-graphics.ch.ico",
     "slug": "faq",
     "status": "up",
-    "uptime": "99.26%",
+    "uptime": "99.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.65%",
     "time": 1019,
-    "timeDay": 890,
-    "timeWeek": 941,
-    "timeMonth": 1007,
+    "timeDay": 1025,
+    "timeWeek": 949,
+    "timeMonth": 1010,
     "timeYear": 1039,
     "dailyMinutesDown": {
       "2022-12-15": 371,
@@ -179,8 +176,7 @@
       "2022-06-29": 92,
       "2022-06-21": 19,
       "2022-06-16": 24,
-      "2022-04-14": 437,
-      "2022-02-10": 311
+      "2022-04-14": 437
     }
   },
   {
@@ -194,11 +190,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.66%",
-    "time": 1842,
-    "timeDay": 1818,
-    "timeWeek": 1867,
+    "time": 1843,
+    "timeDay": 1943,
+    "timeWeek": 1882,
     "timeMonth": 2206,
-    "timeYear": 1876,
+    "timeYear": 1877,
     "dailyMinutesDown": {
       "2023-01-25": 60,
       "2022-12-15": 371,
@@ -206,8 +202,7 @@
       "2022-10-31": 26,
       "2022-08-29": 45,
       "2022-07-12": 521,
-      "2022-04-14": 437,
-      "2022-02-10": 311
+      "2022-04-14": 437
     }
   }
 ]
