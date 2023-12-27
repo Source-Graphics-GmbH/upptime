@@ -1,7 +1,7 @@
 url: https://gitlab.source-graphics.ch
-status: up
-code: 200
-responseTime: 1056
-lastUpdated: 2023-12-26T23:18:46.922Z
+status: down
+code: 502
+responseTime: 752
+lastUpdated: 2023-12-27T14:01:23.132Z
 startTime: 2020-12-10T10:10:26.000Z
 generator: Upptime <https://github.com/upptime/upptime>
