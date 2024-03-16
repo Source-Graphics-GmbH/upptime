@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vo-ip",
     "status": "up",
-    "uptime": "85.32%",
+    "uptime": "85.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.56%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "98.40%",
     "time": 651,
-    "timeDay": 590,
-    "timeWeek": 566,
-    "timeMonth": 707,
-    "timeYear": 659,
+    "timeDay": 848,
+    "timeWeek": 603,
+    "timeMonth": 667,
+    "timeYear": 660,
     "dailyMinutesDown": {
       "2024-02-15": 657,
       "2024-02-14": 1440,
@@ -41,11 +41,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.13%",
-    "time": 1208,
-    "timeDay": 1361,
-    "timeWeek": 1339,
-    "timeMonth": 1492,
-    "timeYear": 1194,
+    "time": 1209,
+    "timeDay": 1726,
+    "timeWeek": 1374,
+    "timeMonth": 1495,
+    "timeYear": 1195,
     "dailyMinutesDown": {
       "2024-01-30": 184,
       "2023-12-06": 73,
@@ -61,8 +61,7 @@
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
-      "2023-04-13": 679,
-      "2023-03-17": 790
+      "2023-04-13": 679
     }
   },
   {
@@ -71,16 +70,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.services.source-graphics.ch.ico",
     "slug": "webmail-for-sg-services",
     "status": "up",
-    "uptime": "92.96%",
+    "uptime": "92.97%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "78.13%",
-    "time": 598,
-    "timeDay": 585,
-    "timeWeek": 631,
-    "timeMonth": 746,
-    "timeYear": 638,
+    "time": 599,
+    "timeDay": 803,
+    "timeWeek": 662,
+    "timeMonth": 742,
+    "timeYear": 639,
     "dailyMinutesDown": {
       "2024-01-30": 184,
       "2023-12-16": 29,
@@ -165,8 +164,7 @@
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
-      "2023-04-13": 679,
-      "2023-03-17": 790
+      "2023-04-13": 679
     }
   },
   {
@@ -175,15 +173,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.source-graphics.ch.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "96.10%",
+    "uptime": "96.11%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "89.22%",
-    "time": 995,
-    "timeDay": 699,
-    "timeWeek": 849,
-    "timeMonth": 858,
+    "time": 994,
+    "timeDay": 985,
+    "timeWeek": 880,
+    "timeMonth": 853,
     "timeYear": 987,
     "dailyMinutesDown": {
       "2024-01-30": 183,
@@ -235,8 +233,7 @@
       "2023-04-16": 1440,
       "2023-04-15": 1440,
       "2023-04-14": 1440,
-      "2023-04-13": 1182,
-      "2023-03-17": 790
+      "2023-04-13": 1182
     }
   },
   {
@@ -250,9 +247,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.13%",
-    "time": 1007,
-    "timeDay": 764,
-    "timeWeek": 830,
+    "time": 1008,
+    "timeDay": 1098,
+    "timeWeek": 881,
     "timeMonth": 918,
     "timeYear": 1003,
     "dailyMinutesDown": {
@@ -269,8 +266,7 @@
       "2023-04-30": 1440,
       "2023-04-29": 1440,
       "2023-04-28": 1440,
-      "2023-04-13": 679,
-      "2023-03-17": 790
+      "2023-04-13": 679
     }
   },
   {
@@ -284,11 +280,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "96.03%",
-    "time": 2382,
-    "timeDay": 3496,
-    "timeWeek": 3082,
-    "timeMonth": 3350,
-    "timeYear": 2578,
+    "time": 2384,
+    "timeDay": 2740,
+    "timeWeek": 2979,
+    "timeMonth": 3293,
+    "timeYear": 2580,
     "dailyMinutesDown": {
       "2024-01-30": 182,
       "2024-01-09": 949,
@@ -310,8 +306,7 @@
       "2023-09-14": 1192,
       "2023-04-27": 40,
       "2023-04-26": 38,
-      "2023-04-13": 679,
-      "2023-03-17": 790
+      "2023-04-13": 679
     }
   }
 ]
