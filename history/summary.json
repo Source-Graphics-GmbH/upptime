@@ -236,13 +236,13 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
-    "uptime": "98.66%",
-    "uptimeDay": "70.51%",
-    "uptimeWeek": "33.80%",
-    "uptimeMonth": "45.06%",
-    "uptimeYear": "95.42%",
-    "time": 2801,
+    "status": "down",
+    "uptime": "98.67%",
+    "uptimeDay": "70.48%",
+    "uptimeWeek": "34.43%",
+    "uptimeMonth": "45.20%",
+    "uptimeYear": "95.43%",
+    "time": 2802,
     "timeDay": 3150,
     "timeWeek": 3326,
     "timeMonth": 3361,
@@ -273,7 +273,7 @@
       "2024-04-21": 953,
       "2024-04-20": 508,
       "2024-04-19": 1086,
-      "2024-04-18": 559
+      "2024-04-18": 495
     }
   }
 ]
