@@ -62,7 +62,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.services.source-graphics.ch.ico",
     "slug": "webmail-for-sg-services",
     "status": "up",
-    "uptime": "93.31%",
+    "uptime": "93.32%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -236,13 +236,13 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
-    "uptime": "98.63%",
-    "uptimeDay": "44.25%",
-    "uptimeWeek": "54.50%",
-    "uptimeMonth": "43.63%",
-    "uptimeYear": "95.30%",
-    "time": 2834,
+    "status": "down",
+    "uptime": "98.64%",
+    "uptimeDay": "49.09%",
+    "uptimeWeek": "55.19%",
+    "uptimeMonth": "43.80%",
+    "uptimeYear": "95.32%",
+    "time": 2835,
     "timeDay": 3341,
     "timeWeek": 3443,
     "timeMonth": 3390,
@@ -275,7 +275,7 @@
       "2024-04-23": 793,
       "2024-04-22": 822,
       "2024-04-21": 953,
-      "2024-04-20": 266
+      "2024-04-20": 194
     }
   }
 ]
