@@ -1,7 +1,7 @@
 url: https://sharing.source-graphics.ch
-status: up
-code: 200
-responseTime: 2304
-lastUpdated: 2024-06-15T23:18:16.988Z
+status: down
+code: 502
+responseTime: 499
+lastUpdated: 2024-06-16T09:26:56.842Z
 startTime: 2020-12-10T10:10:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
