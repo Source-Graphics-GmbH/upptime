@@ -62,11 +62,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.services.source-graphics.ch.ico",
     "slug": "webmail-for-sg-services",
     "status": "up",
-    "uptime": "93.53%",
+    "uptime": "93.54%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "82.43%",
+    "uptimeYear": "82.44%",
     "time": 665,
     "timeDay": 805,
     "timeWeek": 670,
@@ -139,8 +139,7 @@
       "2023-07-04": 1440,
       "2023-07-03": 1440,
       "2023-07-02": 1440,
-      "2023-07-01": 1440,
-      "2023-06-30": 1440
+      "2023-07-01": 1440
     }
   },
   {
@@ -153,7 +152,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "97.32%",
+    "uptimeYear": "97.33%",
     "time": 945,
     "timeDay": 762,
     "timeWeek": 816,
@@ -176,8 +175,7 @@
       "2023-09-14": 1192,
       "2023-07-03": 1056,
       "2023-07-02": 1440,
-      "2023-07-01": 1440,
-      "2023-06-30": 1440
+      "2023-07-01": 1440
     }
   },
   {
@@ -215,15 +213,16 @@
     "uptime": "98.94%",
     "uptimeDay": "17.67%",
     "uptimeWeek": "31.37%",
-    "uptimeMonth": "54.84%",
-    "uptimeYear": "96.24%",
+    "uptimeMonth": "54.74%",
+    "uptimeYear": "96.23%",
     "time": 3007,
     "timeDay": 3364,
     "timeWeek": 3333,
     "timeMonth": 3378,
     "timeYear": 3163,
     "dailyMinutesDown": {
-      "2024-06-28": 1170,
+      "2024-06-29": 28,
+      "2024-06-28": 1186,
       "2024-06-27": 1001,
       "2024-06-26": 815,
       "2024-06-25": 646,
