@@ -67,7 +67,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.services.source-graphics.ch.ico",
     "slug": "webmail-for-sg-services",
     "status": "up",
-    "uptime": "93.72%",
+    "uptime": "93.73%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -122,7 +122,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.source-graphics.ch.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "96.52%",
+    "uptime": "96.53%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -181,15 +181,15 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
-    "uptime": "98.90%",
-    "uptimeDay": "81.42%",
-    "uptimeWeek": "57.48%",
-    "uptimeMonth": "51.84%",
-    "uptimeYear": "95.99%",
-    "time": 3099,
-    "timeDay": 3489,
-    "timeWeek": 3530,
+    "status": "down",
+    "uptime": "98.91%",
+    "uptimeDay": "85.99%",
+    "uptimeWeek": "59.59%",
+    "uptimeMonth": "52.17%",
+    "uptimeYear": "96.01%",
+    "time": 3101,
+    "timeDay": 3302,
+    "timeWeek": 3531,
     "timeMonth": 3525,
     "timeYear": 3271,
     "dailyMinutesDown": {
@@ -221,7 +221,7 @@
       "2024-07-13": 463,
       "2024-07-12": 526,
       "2024-07-11": 1074,
-      "2024-07-10": 378
+      "2024-07-10": 233
     }
   }
 ]
