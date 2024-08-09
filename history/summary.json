@@ -6,8 +6,8 @@
     "slug": "vo-ip",
     "status": "up",
     "uptime": "98.74%",
-    "uptimeDay": "68.43%",
-    "uptimeWeek": "23.32%",
+    "uptimeDay": "70.27%",
+    "uptimeWeek": "23.91%",
     "uptimeMonth": "44.24%",
     "uptimeYear": "95.35%",
     "time": 651,
@@ -49,11 +49,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharing.source-graphics.ch.ico",
     "slug": "sharing",
     "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "68.43%",
-    "uptimeWeek": "23.33%",
-    "uptimeMonth": "44.24%",
-    "uptimeYear": "95.35%",
+    "uptime": "98.74%",
+    "uptimeDay": "70.26%",
+    "uptimeWeek": "23.91%",
+    "uptimeMonth": "44.40%",
+    "uptimeYear": "95.37%",
     "time": 1400,
     "timeDay": 1244,
     "timeWeek": 2140,
@@ -84,7 +84,7 @@
       "2024-07-19": 772,
       "2024-07-18": 1358,
       "2024-07-17": 959,
-      "2024-07-16": 272
+      "2024-07-16": 206
     }
   },
   {
@@ -93,11 +93,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.services.source-graphics.ch.ico",
     "slug": "webmail-for-sg-services",
     "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "68.43%",
-    "uptimeWeek": "23.33%",
-    "uptimeMonth": "44.24%",
-    "uptimeYear": "95.35%",
+    "uptime": "98.74%",
+    "uptimeDay": "70.26%",
+    "uptimeWeek": "23.91%",
+    "uptimeMonth": "44.40%",
+    "uptimeYear": "95.37%",
     "time": 682,
     "timeDay": 596,
     "timeWeek": 645,
@@ -128,7 +128,7 @@
       "2024-07-19": 772,
       "2024-07-18": 1358,
       "2024-07-17": 959,
-      "2024-07-16": 272
+      "2024-07-16": 206
     }
   },
   {
@@ -137,11 +137,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.source-graphics.ch.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "68.43%",
-    "uptimeWeek": "23.33%",
-    "uptimeMonth": "44.24%",
-    "uptimeYear": "95.35%",
+    "uptime": "98.74%",
+    "uptimeDay": "70.25%",
+    "uptimeWeek": "23.91%",
+    "uptimeMonth": "44.40%",
+    "uptimeYear": "95.37%",
     "time": 923,
     "timeDay": 684,
     "timeWeek": 735,
@@ -172,7 +172,7 @@
       "2024-07-19": 772,
       "2024-07-18": 1358,
       "2024-07-17": 959,
-      "2024-07-16": 272
+      "2024-07-16": 206
     }
   },
   {
@@ -181,11 +181,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/faq.source-graphics.ch.ico",
     "slug": "faq",
     "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "68.43%",
-    "uptimeWeek": "23.33%",
-    "uptimeMonth": "44.24%",
-    "uptimeYear": "95.35%",
+    "uptime": "98.74%",
+    "uptimeDay": "70.25%",
+    "uptimeWeek": "23.91%",
+    "uptimeMonth": "44.40%",
+    "uptimeYear": "95.37%",
     "time": 964,
     "timeDay": 853,
     "timeWeek": 813,
@@ -216,7 +216,7 @@
       "2024-07-19": 772,
       "2024-07-18": 1358,
       "2024-07-17": 959,
-      "2024-07-16": 272
+      "2024-07-16": 206
     }
   },
   {
@@ -224,15 +224,15 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
-    "uptime": "98.73%",
-    "uptimeDay": "68.43%",
-    "uptimeWeek": "23.33%",
-    "uptimeMonth": "44.24%",
-    "uptimeYear": "95.35%",
-    "time": 3131,
-    "timeDay": 3366,
-    "timeWeek": 3402,
+    "status": "down",
+    "uptime": "98.74%",
+    "uptimeDay": "70.25%",
+    "uptimeWeek": "23.91%",
+    "uptimeMonth": "44.39%",
+    "uptimeYear": "95.37%",
+    "time": 3133,
+    "timeDay": 3373,
+    "timeWeek": 3373,
     "timeMonth": 3491,
     "timeYear": 3269,
     "dailyMinutesDown": {
@@ -260,7 +260,7 @@
       "2024-07-19": 772,
       "2024-07-18": 1358,
       "2024-07-17": 959,
-      "2024-07-16": 272
+      "2024-07-16": 206
     }
   }
 ]
