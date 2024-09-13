@@ -13,7 +13,7 @@
     "time": 659,
     "timeDay": 839,
     "timeWeek": 707,
-    "timeMonth": 756,
+    "timeMonth": 759,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2024-09-01": 111,
@@ -42,11 +42,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.84%",
     "uptimeYear": "97.66%",
-    "time": 1380,
+    "time": 1447,
     "timeDay": 2182,
     "timeWeek": 1606,
-    "timeMonth": 1517,
-    "timeYear": 1540,
+    "timeMonth": 1528,
+    "timeYear": 1541,
     "dailyMinutesDown": {
       "2024-09-01": 110,
       "2024-08-30": 371,
@@ -81,7 +81,7 @@
     "time": 721,
     "timeDay": 956,
     "timeWeek": 818,
-    "timeMonth": 1252,
+    "timeMonth": 1267,
     "timeYear": 771,
     "dailyMinutesDown": {
       "2024-09-01": 110,
@@ -136,10 +136,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.73%",
     "uptimeYear": "98.52%",
-    "time": 938,
+    "time": 925,
     "timeDay": 870,
     "timeWeek": 880,
-    "timeMonth": 980,
+    "timeMonth": 986,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2024-09-01": 109,
@@ -174,7 +174,7 @@
     "time": 983,
     "timeDay": 951,
     "timeWeek": 911,
-    "timeMonth": 1227,
+    "timeMonth": 1237,
     "timeYear": 974,
     "dailyMinutesDown": {
       "2024-09-01": 108,
@@ -194,17 +194,17 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "44.21%",
-    "uptimeWeek": "28.21%",
-    "uptimeMonth": "50.87%",
-    "uptimeYear": "95.91%",
-    "time": 3540,
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "45.63%",
+    "uptimeWeek": "28.86%",
+    "uptimeMonth": "51.01%",
+    "uptimeYear": "95.92%",
+    "time": 3542,
     "timeDay": 5126,
     "timeWeek": 4965,
-    "timeMonth": 5813,
-    "timeYear": 3709,
+    "timeMonth": 5823,
+    "timeYear": 3711,
     "dailyMinutesDown": {
       "2024-09-13": 743,
       "2024-09-12": 915,
@@ -230,7 +230,7 @@
       "2024-08-23": 1336,
       "2024-08-22": 1174,
       "2024-08-21": 1031,
-      "2024-08-20": 455
+      "2024-08-20": 392
     }
   }
 ]
