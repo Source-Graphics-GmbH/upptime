@@ -5,15 +5,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vo-ip",
     "status": "up",
-    "uptime": "87.23%",
+    "uptime": "87.24%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.12%",
+    "uptimeMonth": "99.18%",
     "uptimeYear": "98.78%",
     "time": 659,
-    "timeDay": 0,
-    "timeWeek": 732,
-    "timeMonth": 759,
+    "timeDay": 744,
+    "timeWeek": 750,
+    "timeMonth": 766,
     "timeYear": 664,
     "dailyMinutesDown": {
       "2024-09-01": 111,
@@ -40,12 +40,12 @@
     "uptime": "98.38%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.84%",
-    "uptimeYear": "97.82%",
-    "time": 1447,
-    "timeDay": 0,
-    "timeWeek": 1654,
-    "timeMonth": 1528,
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "97.90%",
+    "time": 1448,
+    "timeDay": 1392,
+    "timeWeek": 1647,
+    "timeMonth": 1531,
     "timeYear": 1541,
     "dailyMinutesDown": {
       "2024-09-01": 110,
@@ -62,8 +62,7 @@
       "2024-01-30": 184,
       "2023-12-06": 73,
       "2023-12-05": 19,
-      "2023-12-04": 82,
-      "2023-09-16": 583
+      "2023-12-04": 82
     }
   },
   {
@@ -75,13 +74,13 @@
     "uptime": "93.85%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.94%",
-    "uptimeYear": "91.35%",
+    "uptimeMonth": "98.99%",
+    "uptimeYear": "91.43%",
     "time": 721,
-    "timeDay": 0,
-    "timeWeek": 820,
-    "timeMonth": 1230,
-    "timeYear": 771,
+    "timeDay": 952,
+    "timeWeek": 877,
+    "timeMonth": 1239,
+    "timeYear": 772,
     "dailyMinutesDown": {
       "2024-09-01": 110,
       "2024-08-30": 332,
@@ -119,8 +118,7 @@
       "2023-11-13": 1440,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
-      "2023-11-10": 259,
-      "2023-09-16": 583
+      "2023-11-10": 259
     }
   },
   {
@@ -132,12 +130,12 @@
     "uptime": "96.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.73%",
-    "uptimeYear": "98.67%",
+    "uptimeMonth": "98.79%",
+    "uptimeYear": "98.75%",
     "time": 925,
-    "timeDay": 0,
-    "timeWeek": 910,
-    "timeMonth": 986,
+    "timeDay": 1070,
+    "timeWeek": 942,
+    "timeMonth": 957,
     "timeYear": 914,
     "dailyMinutesDown": {
       "2024-09-01": 109,
@@ -153,8 +151,7 @@
       "2023-12-05": 18,
       "2023-12-04": 91,
       "2023-09-18": 595,
-      "2023-09-17": 1440,
-      "2023-09-16": 1440
+      "2023-09-17": 1440
     }
   },
   {
@@ -166,13 +163,13 @@
     "uptime": "98.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.87%",
-    "uptimeYear": "99.37%",
-    "time": 983,
-    "timeDay": 0,
-    "timeWeek": 933,
-    "timeMonth": 1237,
-    "timeYear": 976,
+    "uptimeMonth": "98.93%",
+    "uptimeYear": "99.45%",
+    "time": 984,
+    "timeDay": 962,
+    "timeWeek": 947,
+    "timeMonth": 1261,
+    "timeYear": 978,
     "dailyMinutesDown": {
       "2024-09-01": 108,
       "2024-08-30": 361,
@@ -181,8 +178,7 @@
       "2024-04-04": 44,
       "2024-01-30": 182,
       "2023-12-06": 71,
-      "2023-12-04": 82,
-      "2023-09-16": 583
+      "2023-12-04": 82
     }
   },
   {
@@ -192,15 +188,15 @@
     "slug": "marcel-web",
     "status": "up",
     "uptime": "98.92%",
-    "uptimeDay": "44.62%",
-    "uptimeWeek": "30.62%",
+    "uptimeDay": "68.65%",
+    "uptimeWeek": "34.70%",
     "uptimeMonth": "51.26%",
     "uptimeYear": "95.94%",
-    "time": 3564,
-    "timeDay": 4668,
-    "timeWeek": 4955,
-    "timeMonth": 5791,
-    "timeYear": 3717,
+    "time": 3567,
+    "timeDay": 4626,
+    "timeWeek": 4951,
+    "timeMonth": 5796,
+    "timeYear": 3718,
     "dailyMinutesDown": {
       "2024-09-14": 489,
       "2024-09-13": 784,
