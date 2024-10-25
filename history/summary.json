@@ -39,7 +39,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/sharing.source-graphics.ch.ico",
     "slug": "sharing",
     "status": "up",
-    "uptime": "98.22%",
+    "uptime": "98.23%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -196,13 +196,13 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
-    "uptime": "98.71%",
-    "uptimeDay": "41.96%",
-    "uptimeWeek": "36.81%",
-    "uptimeMonth": "40.21%",
-    "uptimeYear": "95.02%",
-    "time": 3693,
+    "status": "down",
+    "uptime": "98.72%",
+    "uptimeDay": "47.41%",
+    "uptimeWeek": "37.59%",
+    "uptimeMonth": "40.36%",
+    "uptimeYear": "95.03%",
+    "time": 3695,
     "timeDay": 4287,
     "timeWeek": 4379,
     "timeMonth": 4308,
@@ -236,7 +236,7 @@
       "2024-09-30": 960,
       "2024-09-29": 1279,
       "2024-09-28": 980,
-      "2024-09-27": 79
+      "2024-09-27": 11
     }
   }
 ]
