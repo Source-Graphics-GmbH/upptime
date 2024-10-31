@@ -13,7 +13,7 @@
     "time": 665,
     "timeDay": 585,
     "timeWeek": 734,
-    "timeMonth": 687,
+    "timeMonth": 683,
     "timeYear": 659,
     "dailyMinutesDown": {
       "2024-09-22": 650,
@@ -47,7 +47,7 @@
     "time": 1526,
     "timeDay": 1253,
     "timeWeek": 1434,
-    "timeMonth": 1770,
+    "timeMonth": 1780,
     "timeYear": 1633,
     "dailyMinutesDown": {
       "2024-09-23": 891,
@@ -85,7 +85,7 @@
     "time": 742,
     "timeDay": 721,
     "timeWeek": 860,
-    "timeMonth": 800,
+    "timeMonth": 796,
     "timeYear": 795,
     "dailyMinutesDown": {
       "2024-09-22": 768,
@@ -143,7 +143,7 @@
     "time": 927,
     "timeDay": 890,
     "timeWeek": 920,
-    "timeMonth": 934,
+    "timeMonth": 925,
     "timeYear": 900,
     "dailyMinutesDown": {
       "2024-09-22": 768,
@@ -198,14 +198,14 @@
     "slug": "marcel-web",
     "status": "up",
     "uptime": "98.82%",
-    "uptimeDay": "27.60%",
-    "uptimeWeek": "44.11%",
+    "uptimeDay": "30.66%",
+    "uptimeWeek": "44.55%",
     "uptimeMonth": "44.74%",
     "uptimeYear": "95.39%",
     "time": 3645,
     "timeDay": 4476,
     "timeWeek": 4351,
-    "timeMonth": 4331,
+    "timeMonth": 4341,
     "timeYear": 3905,
     "dailyMinutesDown": {
       "2024-10-30": 1035,
