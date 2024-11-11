@@ -81,7 +81,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.56%",
+    "uptimeYear": "91.57%",
     "time": 756,
     "timeDay": 691,
     "timeWeek": 701,
@@ -123,8 +123,7 @@
       "2023-11-16": 1440,
       "2023-11-15": 1440,
       "2023-11-14": 1440,
-      "2023-11-13": 1440,
-      "2023-11-12": 1440
+      "2023-11-13": 1440
     }
   },
   {
@@ -196,17 +195,18 @@
     "slug": "marcel-web",
     "status": "down",
     "uptime": "98.82%",
-    "uptimeDay": "29.15%",
-    "uptimeWeek": "41.94%",
-    "uptimeMonth": "44.59%",
-    "uptimeYear": "95.38%",
+    "uptimeDay": "25.23%",
+    "uptimeWeek": "41.38%",
+    "uptimeMonth": "44.46%",
+    "uptimeYear": "95.37%",
     "time": 3787,
     "timeDay": 4515,
     "timeWeek": 4309,
-    "timeMonth": 4364,
+    "timeMonth": 4368,
     "timeYear": 3941,
     "dailyMinutesDown": {
-      "2024-11-10": 1020,
+      "2024-11-11": 36,
+      "2024-11-10": 1041,
       "2024-11-09": 803,
       "2024-11-08": 1177,
       "2024-11-07": 1141,
