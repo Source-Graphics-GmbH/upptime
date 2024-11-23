@@ -111,8 +111,7 @@
       "2023-11-28": 1440,
       "2023-11-27": 1440,
       "2023-11-26": 1440,
-      "2023-11-25": 1440,
-      "2023-11-24": 1440
+      "2023-11-25": 1440
     }
   },
   {
@@ -184,14 +183,14 @@
     "slug": "marcel-web",
     "status": "up",
     "uptime": "98.75%",
-    "uptimeDay": "60.26%",
-    "uptimeWeek": "44.31%",
+    "uptimeDay": "63.41%",
+    "uptimeWeek": "44.76%",
     "uptimeMonth": "40.61%",
     "uptimeYear": "95.05%",
     "time": 3782,
     "timeDay": 4111,
     "timeWeek": 4138,
-    "timeMonth": 4295,
+    "timeMonth": 4294,
     "timeYear": 3968,
     "dailyMinutesDown": {
       "2024-11-22": 562,
