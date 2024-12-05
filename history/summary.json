@@ -11,10 +11,10 @@
     "uptimeMonth": "99.81%",
     "uptimeYear": "98.49%",
     "time": 663,
-    "timeDay": 549,
-    "timeWeek": 670,
+    "timeDay": 552,
+    "timeWeek": 640,
     "timeMonth": 661,
-    "timeYear": 655,
+    "timeYear": 654,
     "dailyMinutesDown": {
       "2024-11-28": 84,
       "2024-09-22": 650,
@@ -29,8 +29,7 @@
       "2024-02-13": 1440,
       "2024-02-12": 1440,
       "2024-02-11": 286,
-      "2024-01-30": 185,
-      "2023-12-06": 19
+      "2024-01-30": 185
     }
   },
   {
@@ -43,12 +42,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "97.47%",
-    "time": 1466,
-    "timeDay": 1313,
-    "timeWeek": 1458,
-    "timeMonth": 1413,
-    "timeYear": 1652,
+    "uptimeYear": "97.48%",
+    "time": 1550,
+    "timeDay": 1327,
+    "timeWeek": 1455,
+    "timeMonth": 1421,
+    "timeYear": 1653,
     "dailyMinutesDown": {
       "2024-11-28": 84,
       "2024-09-23": 891,
@@ -66,8 +65,7 @@
       "2024-06-17": 1080,
       "2024-06-16": 873,
       "2024-04-04": 23,
-      "2024-01-30": 184,
-      "2023-12-06": 73
+      "2024-01-30": 184
     }
   },
   {
@@ -76,15 +74,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.services.source-graphics.ch.ico",
     "slug": "webmail-for-sg-services",
     "status": "up",
-    "uptime": "94.11%",
+    "uptime": "94.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.17%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "97.99%",
+    "uptimeYear": "98.13%",
     "time": 771,
-    "timeDay": 682,
-    "timeWeek": 944,
-    "timeMonth": 814,
+    "timeDay": 688,
+    "timeWeek": 911,
+    "timeMonth": 816,
     "timeYear": 810,
     "dailyMinutesDown": {
       "2024-11-28": 83,
@@ -99,8 +97,7 @@
       "2023-12-16": 29,
       "2023-12-09": 1253,
       "2023-12-08": 1440,
-      "2023-12-07": 1440,
-      "2023-12-06": 1440
+      "2023-12-07": 1440
     }
   },
   {
@@ -113,12 +110,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.18%",
     "uptimeMonth": "99.71%",
-    "uptimeYear": "99.36%",
+    "uptimeYear": "99.38%",
     "time": 922,
-    "timeDay": 882,
-    "timeWeek": 1052,
-    "timeMonth": 888,
-    "timeYear": 887,
+    "timeDay": 998,
+    "timeWeek": 1017,
+    "timeMonth": 897,
+    "timeYear": 881,
     "dailyMinutesDown": {
       "2024-11-28": 83,
       "2024-11-24": 42,
@@ -132,8 +129,7 @@
       "2024-01-30": 183,
       "2024-01-04": 18,
       "2023-12-27": 17,
-      "2023-12-07": 636,
-      "2023-12-06": 120
+      "2023-12-07": 636
     }
   },
   {
@@ -146,12 +142,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.19%",
     "uptimeMonth": "99.81%",
-    "uptimeYear": "99.52%",
-    "time": 978,
-    "timeDay": 917,
-    "timeWeek": 1055,
+    "uptimeYear": "99.53%",
+    "time": 979,
+    "timeDay": 892,
+    "timeWeek": 1036,
     "timeMonth": 977,
-    "timeYear": 967,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2024-11-28": 81,
       "2024-09-22": 768,
@@ -161,8 +157,7 @@
       "2024-08-14": 24,
       "2024-07-17": 16,
       "2024-04-04": 44,
-      "2024-01-30": 182,
-      "2023-12-06": 71
+      "2024-01-30": 182
     }
   },
   {
@@ -171,18 +166,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
     "status": "down",
-    "uptime": "98.97%",
-    "uptimeDay": "79.34%",
-    "uptimeWeek": "50.42%",
-    "uptimeMonth": "50.67%",
-    "uptimeYear": "95.89%",
-    "time": 3833,
+    "uptime": "98.93%",
+    "uptimeDay": "35.51%",
+    "uptimeWeek": "48.51%",
+    "uptimeMonth": "49.03%",
+    "uptimeYear": "95.75%",
+    "time": 3834,
     "timeDay": 4494,
-    "timeWeek": 4450,
-    "timeMonth": 4279,
+    "timeWeek": 4531,
+    "timeMonth": 4292,
     "timeYear": 4002,
     "dailyMinutesDown": {
-      "2024-12-04": 251,
+      "2024-12-05": 39,
+      "2024-12-04": 929,
       "2024-12-03": 162,
       "2024-12-02": 742,
       "2024-12-01": 904,
