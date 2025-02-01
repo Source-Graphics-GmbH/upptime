@@ -1,7 +1,7 @@
 url: $VOIP_WEB
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-02-01T14:26:24.978Z
+status: up
+code: 200
+responseTime: 748
+lastUpdated: 2025-02-01T14:35:00.986Z
 startTime: 2020-12-04T14:06:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
