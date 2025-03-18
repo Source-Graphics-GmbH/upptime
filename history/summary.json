@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "85.21%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "14.68%",
-    "uptimeMonth": "11.33%",
+    "uptimeWeek": "15.26%",
+    "uptimeMonth": "11.47%",
     "uptimeYear": "84.68%",
     "time": 665,
     "timeDay": 489,
@@ -187,7 +187,7 @@
     "slug": "gitlab",
     "status": "up",
     "uptime": "96.81%",
-    "uptimeDay": "93.20%",
+    "uptimeDay": "97.32%",
     "uptimeWeek": "94.94%",
     "uptimeMonth": "98.23%",
     "uptimeYear": "99.09%",
@@ -259,16 +259,16 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.71%",
-    "uptimeDay": "17.93%",
+    "uptimeDay": "19.46%",
     "uptimeWeek": "42.48%",
-    "uptimeMonth": "36.19%",
-    "uptimeYear": "94.47%",
-    "time": 4122,
-    "timeDay": 18004,
+    "uptimeMonth": "36.31%",
+    "uptimeYear": "94.49%",
+    "time": 4123,
+    "timeDay": 16739,
     "timeWeek": 6574,
-    "timeMonth": 5680,
+    "timeMonth": 5689,
     "timeYear": 4234,
     "dailyMinutesDown": {
       "2025-03-18": 717,
@@ -300,7 +300,7 @@
       "2025-02-20": 1384,
       "2025-02-19": 722,
       "2025-02-18": 1298,
-      "2025-02-17": 281
+      "2025-02-17": 211
     }
   }
 ]
