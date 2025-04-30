@@ -1,7 +1,7 @@
 url: $MARCEL_WEB
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2025-04-30T01:22:18.509Z
+status: up
+code: 200
+responseTime: 15053
+lastUpdated: 2025-04-30T06:50:54.740Z
 startTime: 2020-12-10T10:10:32.000Z
 generator: Upptime <https://github.com/upptime/upptime>
