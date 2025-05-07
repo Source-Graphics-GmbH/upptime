@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vo-ip",
     "status": "up",
-    "uptime": "85.64%",
+    "uptime": "85.65%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "99.74%",
     "uptimeMonth": "98.97%",
@@ -293,15 +293,15 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.41%",
-    "uptimeDay": "49.00%",
+    "uptimeDay": "48.98%",
     "uptimeWeek": "56.59%",
-    "uptimeMonth": "68.56%",
+    "uptimeMonth": "68.60%",
     "uptimeYear": "97.38%",
     "time": 5606,
     "timeDay": 10958,
-    "timeWeek": 10885,
+    "timeWeek": 10994,
     "timeMonth": 11888,
     "timeYear": 5712,
     "dailyMinutesDown": {
@@ -323,8 +323,7 @@
       "2025-04-22": 875,
       "2025-04-21": 789,
       "2025-04-20": 621,
-      "2025-04-19": 503,
-      "2025-04-18": 16
+      "2025-04-19": 503
     }
   }
 ]
