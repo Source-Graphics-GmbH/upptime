@@ -8,7 +8,7 @@
     "uptime": "85.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "72.58%",
+    "uptimeMonth": "72.54%",
     "uptimeYear": "82.27%",
     "time": 651,
     "timeDay": 0,
@@ -16,7 +16,7 @@
     "timeMonth": 591,
     "timeYear": 660,
     "dailyMinutesDown": {
-      "2025-06-16": 1162,
+      "2025-06-16": 1182,
       "2025-06-15": 1440,
       "2025-06-14": 1440,
       "2025-06-13": 1440,
@@ -112,7 +112,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.44%",
+    "uptimeYear": "93.45%",
     "time": 1728,
     "timeDay": 1952,
     "timeWeek": 2284,
@@ -315,15 +315,15 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
-    "uptime": "99.33%",
-    "uptimeDay": "12.10%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "13.49%",
     "uptimeWeek": "41.68%",
-    "uptimeMonth": "63.89%",
-    "uptimeYear": "96.99%",
+    "uptimeMonth": "65.46%",
+    "uptimeYear": "97.12%",
     "time": 6934,
     "timeDay": 19848,
-    "timeWeek": 12584,
+    "timeWeek": 12572,
     "timeMonth": 11820,
     "timeYear": 7043,
     "dailyMinutesDown": {
@@ -344,7 +344,7 @@
       "2025-06-02": 737,
       "2025-06-01": 913,
       "2025-05-31": 1286,
-      "2025-05-30": 698
+      "2025-05-30": 8
     }
   }
 ]
