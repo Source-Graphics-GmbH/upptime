@@ -7,8 +7,8 @@
     "status": "up",
     "uptime": "84.36%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "86.25%",
-    "uptimeMonth": "21.23%",
+    "uptimeWeek": "86.99%",
+    "uptimeMonth": "21.40%",
     "uptimeYear": "75.93%",
     "time": 657,
     "timeDay": 730,
@@ -360,17 +360,17 @@
     "slug": "marcel-web",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "35.20%",
-    "uptimeWeek": "32.45%",
-    "uptimeMonth": "59.42%",
-    "uptimeYear": "96.62%",
+    "uptimeDay": "39.99%",
+    "uptimeWeek": "32.69%",
+    "uptimeMonth": "58.96%",
+    "uptimeYear": "96.58%",
     "time": 7656,
     "timeDay": 11035,
-    "timeWeek": 13204,
+    "timeWeek": 13354,
     "timeMonth": 13121,
     "timeYear": 7819,
     "dailyMinutesDown": {
-      "2025-07-15": 912,
+      "2025-07-15": 908,
       "2025-07-14": 1162,
       "2025-07-13": 471,
       "2025-07-12": 1025,
@@ -390,7 +390,7 @@
       "2025-06-28": 1053,
       "2025-06-27": 592,
       "2025-06-26": 803,
-      "2025-06-25": 810
+      "2025-06-25": 1015
     }
   }
 ]
