@@ -206,7 +206,7 @@
     "slug": "webmail-for-sg-services",
     "status": "up",
     "uptime": "93.81%",
-    "uptimeDay": "96.68%",
+    "uptimeDay": "99.59%",
     "uptimeWeek": "99.53%",
     "uptimeMonth": "99.79%",
     "uptimeYear": "93.99%",
@@ -365,14 +365,14 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
-    "uptime": "98.91%",
-    "uptimeDay": "60.57%",
+    "status": "down",
+    "uptime": "98.92%",
+    "uptimeDay": "64.66%",
     "uptimeWeek": "33.92%",
-    "uptimeMonth": "38.43%",
-    "uptimeYear": "94.87%",
+    "uptimeMonth": "38.93%",
+    "uptimeYear": "94.91%",
     "time": 8465,
-    "timeDay": 9003,
+    "timeDay": 9300,
     "timeWeek": 11336,
     "timeMonth": 12355,
     "timeYear": 8547,
@@ -402,7 +402,7 @@
       "2025-07-31": 956,
       "2025-07-30": 905,
       "2025-07-29": 1194,
-      "2025-07-28": 342
+      "2025-07-28": 122
     }
   }
 ]
