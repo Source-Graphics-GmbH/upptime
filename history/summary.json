@@ -13,7 +13,7 @@
     "time": 664,
     "timeDay": 876,
     "timeWeek": 1072,
-    "timeMonth": 817,
+    "timeMonth": 826,
     "timeYear": 677,
     "dailyMinutesDown": {
       "2025-09-07": 19,
@@ -139,7 +139,7 @@
     "time": 1741,
     "timeDay": 1919,
     "timeWeek": 1834,
-    "timeMonth": 1674,
+    "timeMonth": 1683,
     "timeYear": 1736,
     "dailyMinutesDown": {
       "2025-09-07": 18,
@@ -206,7 +206,7 @@
     "time": 1015,
     "timeDay": 1233,
     "timeWeek": 2815,
-    "timeMonth": 1375,
+    "timeMonth": 1392,
     "timeYear": 1031,
     "dailyMinutesDown": {
       "2025-09-26": 24,
@@ -275,7 +275,7 @@
     "time": 1015,
     "timeDay": 1141,
     "timeWeek": 1107,
-    "timeMonth": 1086,
+    "timeMonth": 1096,
     "timeYear": 1048,
     "dailyMinutesDown": {
       "2025-09-07": 18,
@@ -326,7 +326,7 @@
     "time": 1574,
     "timeDay": 2413,
     "timeWeek": 2149,
-    "timeMonth": 1855,
+    "timeMonth": 1859,
     "timeYear": 1734,
     "dailyMinutesDown": {
       "2025-07-21": 567,
@@ -351,15 +351,15 @@
     "slug": "marcel-web",
     "status": "up",
     "uptime": "99.27%",
-    "uptimeDay": "36.88%",
+    "uptimeDay": "41.33%",
     "uptimeWeek": "27.61%",
     "uptimeMonth": "57.69%",
     "uptimeYear": "96.47%",
     "time": 9210,
     "timeDay": 13872,
     "timeWeek": 13512,
-    "timeMonth": 11841,
-    "timeYear": 9366,
+    "timeMonth": 11950,
+    "timeYear": 9368,
     "dailyMinutesDown": {
       "2025-09-30": 889,
       "2025-09-29": 1174,
