@@ -267,7 +267,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.source-graphics.ch.ico",
     "slug": "gitlab",
     "status": "up",
-    "uptime": "97.03%",
+    "uptime": "97.04%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
@@ -349,18 +349,19 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
-    "uptime": "99.34%",
-    "uptimeDay": "69.26%",
-    "uptimeWeek": "41.18%",
-    "uptimeMonth": "61.58%",
-    "uptimeYear": "96.80%",
+    "status": "down",
+    "uptime": "99.36%",
+    "uptimeDay": "80.38%",
+    "uptimeWeek": "43.98%",
+    "uptimeMonth": "62.73%",
+    "uptimeYear": "96.89%",
     "time": 9300,
-    "timeDay": 13458,
-    "timeWeek": 11576,
-    "timeMonth": 11781,
-    "timeYear": 9425,
+    "timeDay": 14820,
+    "timeWeek": 11884,
+    "timeMonth": 11759,
+    "timeYear": 9427,
     "dailyMinutesDown": {
+      "2025-10-04": 0,
       "2025-10-03": 443,
       "2025-10-02": 571,
       "2025-10-01": 606,
@@ -379,7 +380,7 @@
       "2025-09-18": 943,
       "2025-09-17": 1012,
       "2025-09-16": 754,
-      "2025-09-15": 922
+      "2025-09-15": 418
     }
   }
 ]
