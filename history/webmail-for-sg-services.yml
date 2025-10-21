@@ -1,7 +1,7 @@
 url: https://webmail.services.source-graphics.ch/
-status: up
-code: 200
-responseTime: 7247
-lastUpdated: 2025-10-20T23:20:26.109Z
+status: down
+code: 502
+responseTime: 18956
+lastUpdated: 2025-10-21T20:59:14.670Z
 startTime: 2020-12-10T10:10:24.000Z
 generator: Upptime <https://github.com/upptime/upptime>
