@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2025-12-09": 1219,
+      "2025-12-09": 1302,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -346,18 +346,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.source-graphics.ch.ico",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "95.89%",
+    "uptime": "95.88%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "24.79%",
-    "uptimeYear": "92.57%",
+    "uptimeMonth": "24.60%",
+    "uptimeYear": "92.56%",
     "time": 1040,
     "timeDay": 723,
     "timeWeek": 578,
     "timeMonth": 998,
     "timeYear": 1073,
     "dailyMinutesDown": {
-      "2025-12-09": 1219,
+      "2025-12-09": 1302,
       "2025-12-08": 1440,
       "2025-12-07": 1440,
       "2025-12-06": 1440,
@@ -452,12 +452,12 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
+    "status": "down",
     "uptime": "98.85%",
-    "uptimeDay": "3.49%",
-    "uptimeWeek": "7.22%",
-    "uptimeMonth": "31.04%",
-    "uptimeYear": "94.25%",
+    "uptimeDay": "5.76%",
+    "uptimeWeek": "7.93%",
+    "uptimeMonth": "31.18%",
+    "uptimeYear": "94.26%",
     "time": 10516,
     "timeDay": 24092,
     "timeWeek": 13937,
@@ -491,7 +491,7 @@
       "2025-11-15": 1048,
       "2025-11-14": 1040,
       "2025-11-13": 618,
-      "2025-11-12": 492
+      "2025-11-12": 429
     }
   }
 ]
