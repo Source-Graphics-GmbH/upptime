@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 681,
     "dailyMinutesDown": {
-      "2025-12-25": 354,
+      "2025-12-25": 432,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -197,7 +197,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "86.76%",
-    "uptimeYear": "93.97%",
+    "uptimeYear": "93.99%",
     "time": 1756,
     "timeDay": 1791,
     "timeWeek": 1705,
@@ -269,8 +269,8 @@
     "status": "down",
     "uptime": "93.90%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "29.52%",
-    "uptimeMonth": "83.63%",
+    "uptimeWeek": "28.75%",
+    "uptimeMonth": "83.45%",
     "uptimeYear": "92.79%",
     "time": 1216,
     "timeDay": 833,
@@ -278,7 +278,7 @@
     "timeMonth": 1128,
     "timeYear": 1332,
     "dailyMinutesDown": {
-      "2025-12-25": 354,
+      "2025-12-25": 432,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -359,7 +359,7 @@
     "timeMonth": 569,
     "timeYear": 1058,
     "dailyMinutesDown": {
-      "2025-12-25": 355,
+      "2025-12-25": 432,
       "2025-12-24": 1440,
       "2025-12-23": 1440,
       "2025-12-22": 1440,
@@ -440,7 +440,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.09%",
+    "uptimeYear": "99.10%",
     "time": 1752,
     "timeDay": 1690,
     "timeWeek": 1642,
@@ -466,16 +466,16 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
-    "uptime": "98.83%",
-    "uptimeDay": "12.18%",
+    "status": "down",
+    "uptime": "98.85%",
+    "uptimeDay": "13.33%",
     "uptimeWeek": "34.76%",
-    "uptimeMonth": "29.15%",
-    "uptimeYear": "94.10%",
+    "uptimeMonth": "30.24%",
+    "uptimeYear": "94.19%",
     "time": 10782,
     "timeDay": 17899,
     "timeWeek": 12034,
-    "timeMonth": 11722,
+    "timeMonth": 11745,
     "timeYear": 10955,
     "dailyMinutesDown": {
       "2025-12-25": 288,
@@ -507,7 +507,7 @@
       "2025-11-29": 1018,
       "2025-11-28": 774,
       "2025-11-27": 1113,
-      "2025-11-26": 491
+      "2025-11-26": 11
     }
   }
 ]
