@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2026-01-30": 500,
+      "2026-01-30": 540,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -308,14 +308,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "83.11%",
+    "uptimeYear": "83.10%",
     "time": 1193,
     "timeDay": 493,
     "timeWeek": 572,
     "timeMonth": 565,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2026-01-30": 500,
+      "2026-01-30": 540,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -419,7 +419,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/gitlab.source-graphics.ch.ico",
     "slug": "gitlab",
     "status": "down",
-    "uptime": "93.26%",
+    "uptime": "93.25%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -430,7 +430,7 @@
     "timeMonth": 553,
     "timeYear": 1013,
     "dailyMinutesDown": {
-      "2026-01-30": 500,
+      "2026-01-30": 541,
       "2026-01-29": 1440,
       "2026-01-28": 1440,
       "2026-01-27": 1440,
@@ -570,19 +570,19 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
-    "uptimeDay": "44.49%",
-    "uptimeWeek": "26.99%",
-    "uptimeMonth": "58.40%",
-    "uptimeYear": "96.53%",
+    "uptimeDay": "44.45%",
+    "uptimeWeek": "27.38%",
+    "uptimeMonth": "58.46%",
+    "uptimeYear": "96.54%",
     "time": 11319,
     "timeDay": 12082,
     "timeWeek": 11861,
     "timeMonth": 11845,
     "timeYear": 11522,
     "dailyMinutesDown": {
-      "2026-01-30": 241,
+      "2026-01-30": 242,
       "2026-01-29": 970,
       "2026-01-28": 1173,
       "2026-01-27": 964,
@@ -602,7 +602,7 @@
       "2026-01-13": 1358,
       "2026-01-12": 800,
       "2026-01-11": 836,
-      "2026-01-10": 255
+      "2026-01-10": 226
     }
   }
 ]
