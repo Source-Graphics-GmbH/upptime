@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2026-02-09": 675,
+      "2026-02-09": 791,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -318,14 +318,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "80.34%",
+    "uptimeYear": "80.31%",
     "time": 1193,
     "timeDay": 726,
     "timeWeek": 640,
     "timeMonth": 595,
     "timeYear": 1327,
     "dailyMinutesDown": {
-      "2026-02-09": 675,
+      "2026-02-09": 791,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -441,14 +441,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "76.00%",
+    "uptimeYear": "75.98%",
     "time": 1000,
     "timeDay": 727,
     "timeWeek": 599,
     "timeMonth": 566,
     "timeYear": 1005,
     "dailyMinutesDown": {
-      "2026-02-09": 675,
+      "2026-02-09": 791,
       "2026-02-08": 1440,
       "2026-02-07": 1440,
       "2026-02-06": 1440,
@@ -597,16 +597,16 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.29%",
-    "uptimeDay": "63.47%",
-    "uptimeWeek": "31.71%",
-    "uptimeMonth": "55.79%",
+    "uptimeDay": "66.47%",
+    "uptimeWeek": "32.52%",
+    "uptimeMonth": "55.84%",
     "uptimeYear": "96.32%",
     "time": 11468,
     "timeDay": 7444,
     "timeWeek": 11160,
-    "timeMonth": 11804,
+    "timeMonth": 11817,
     "timeYear": 11673,
     "dailyMinutesDown": {
       "2026-02-09": 129,
@@ -630,7 +630,7 @@
       "2026-01-22": 1039,
       "2026-01-21": 592,
       "2026-01-20": 640,
-      "2026-01-19": 49
+      "2026-01-19": 26
     }
   }
 ]
