@@ -5,7 +5,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "vo-ip",
     "status": "down",
-    "uptime": "79.22%",
+    "uptime": "79.21%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -16,7 +16,8 @@
     "timeMonth": 0,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2026-02-12": 1396,
+      "2026-02-13": 62,
+      "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -224,8 +225,7 @@
       "2025-02-17": 1440,
       "2025-02-16": 1440,
       "2025-02-15": 1440,
-      "2025-02-14": 1440,
-      "2025-02-13": 1440
+      "2025-02-14": 1440
     }
   },
   {
@@ -236,14 +236,14 @@
     "status": "up",
     "uptime": "97.48%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.10%",
+    "uptimeWeek": "99.23%",
     "uptimeMonth": "99.48%",
     "uptimeYear": "94.90%",
-    "time": 1749,
-    "timeDay": 1445,
-    "timeWeek": 1806,
-    "timeMonth": 1589,
-    "timeYear": 1778,
+    "time": 1750,
+    "timeDay": 1888,
+    "timeWeek": 1829,
+    "timeMonth": 1603,
+    "timeYear": 1779,
     "dailyMinutesDown": {
       "2026-02-08": 48,
       "2026-02-07": 29,
@@ -304,8 +304,7 @@
       "2025-02-26": 21,
       "2025-02-25": 18,
       "2025-02-15": 22,
-      "2025-02-14": 26,
-      "2025-02-13": 20
+      "2025-02-14": 26
     }
   },
   {
@@ -318,14 +317,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "79.38%",
+    "uptimeYear": "79.36%",
     "time": 1192,
-    "timeDay": 516,
-    "timeWeek": 578,
-    "timeMonth": 591,
+    "timeDay": 677,
+    "timeWeek": 579,
+    "timeMonth": 599,
     "timeYear": 1327,
     "dailyMinutesDown": {
-      "2026-02-12": 1396,
+      "2026-02-13": 63,
+      "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -430,8 +430,7 @@
       "2025-02-26": 20,
       "2025-02-25": 18,
       "2025-02-15": 21,
-      "2025-02-14": 25,
-      "2025-02-13": 20
+      "2025-02-14": 25
     }
   },
   {
@@ -444,14 +443,15 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "75.04%",
-    "time": 999,
-    "timeDay": 500,
-    "timeWeek": 603,
-    "timeMonth": 570,
+    "uptimeYear": "75.02%",
+    "time": 998,
+    "timeDay": 600,
+    "timeWeek": 591,
+    "timeMonth": 575,
     "timeYear": 1002,
     "dailyMinutesDown": {
-      "2026-02-12": 1396,
+      "2026-02-13": 63,
+      "2026-02-12": 1440,
       "2026-02-11": 1440,
       "2026-02-10": 1440,
       "2026-02-09": 1440,
@@ -563,8 +563,7 @@
       "2025-02-26": 20,
       "2025-02-25": 230,
       "2025-02-15": 21,
-      "2025-02-14": 25,
-      "2025-02-13": 19
+      "2025-02-14": 25
     }
   },
   {
@@ -578,11 +577,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.29%",
-    "time": 1830,
-    "timeDay": 1070,
-    "timeWeek": 1957,
-    "timeMonth": 1919,
-    "timeYear": 2034,
+    "time": 1832,
+    "timeDay": 1904,
+    "timeWeek": 1949,
+    "timeMonth": 1908,
+    "timeYear": 2037,
     "dailyMinutesDown": {
       "2025-11-18": 128,
       "2025-10-15": 96,
@@ -605,15 +604,15 @@
     "slug": "marcel-web",
     "status": "up",
     "uptime": "99.26%",
-    "uptimeDay": "39.40%",
-    "uptimeWeek": "40.49%",
+    "uptimeDay": "46.78%",
+    "uptimeWeek": "41.55%",
     "uptimeMonth": "54.25%",
     "uptimeYear": "96.19%",
-    "time": 11524,
-    "timeDay": 17764,
-    "timeWeek": 11762,
-    "timeMonth": 12096,
-    "timeYear": 11736,
+    "time": 11523,
+    "timeDay": 15363,
+    "timeWeek": 11462,
+    "timeMonth": 12032,
+    "timeYear": 11731,
     "dailyMinutesDown": {
       "2026-02-12": 829,
       "2026-02-11": 768,
