@@ -16,7 +16,7 @@
     "timeMonth": 0,
     "timeYear": 675,
     "dailyMinutesDown": {
-      "2026-02-23": 58,
+      "2026-02-23": 88,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -315,7 +315,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/webmail.services.source-graphics.ch.ico",
     "slug": "webmail-for-sg-services",
     "status": "down",
-    "uptime": "90.95%",
+    "uptime": "90.94%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -326,7 +326,7 @@
     "timeMonth": 602,
     "timeYear": 1323,
     "dailyMinutesDown": {
-      "2026-02-23": 58,
+      "2026-02-23": 88,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -453,14 +453,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "72.30%",
+    "uptimeYear": "72.29%",
     "time": 994,
     "timeDay": 430,
     "timeWeek": 621,
     "timeMonth": 593,
     "timeYear": 993,
     "dailyMinutesDown": {
-      "2026-02-23": 58,
+      "2026-02-23": 88,
       "2026-02-22": 1440,
       "2026-02-21": 1440,
       "2026-02-20": 1440,
@@ -620,18 +620,19 @@
     "url": "$MARCEL_WEB",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "marcel-web",
-    "status": "up",
+    "status": "down",
     "uptime": "99.14%",
-    "uptimeDay": "20.95%",
-    "uptimeWeek": "24.24%",
-    "uptimeMonth": "46.08%",
-    "uptimeYear": "95.51%",
+    "uptimeDay": "20.93%",
+    "uptimeWeek": "24.54%",
+    "uptimeMonth": "46.45%",
+    "uptimeYear": "95.54%",
     "time": 11694,
     "timeDay": 11739,
     "timeWeek": 13704,
     "timeMonth": 12150,
     "timeYear": 11913,
     "dailyMinutesDown": {
+      "2026-02-23": 0,
       "2026-02-22": 1138,
       "2026-02-21": 1153,
       "2026-02-20": 1287,
@@ -656,7 +657,7 @@
       "2026-02-01": 439,
       "2026-01-31": 1080,
       "2026-01-30": 946,
-      "2026-01-29": 273
+      "2026-01-29": 110
     }
   }
 ]
